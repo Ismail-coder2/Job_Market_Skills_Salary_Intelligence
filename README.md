@@ -82,11 +82,8 @@ Salary information is available for a subset of the job postings.
 
 
 
-\## 🛠️ Technologies Used
-
-
-
-\### Programming \& Data Analysis
+\ 🛠️ Technologies Used
+Programming \& Data Analysis
 
 \- Python
 
@@ -100,13 +97,13 @@ Salary information is available for a subset of the job postings.
 
 
 
-\### Database \& Querying
+\# Database \& Querying
 
 \- SQL
 
 
 
-\### Business Intelligence
+\# Business Intelligence
 
 \- Microsoft Power BI
 
@@ -114,7 +111,7 @@ Salary information is available for a subset of the job postings.
 
 
 
-\### Development Tools
+\# Development Tools
 
 \- VS Code
 
@@ -128,7 +125,7 @@ Salary information is available for a subset of the job postings.
 
 
 
-\## 🔄 Project Workflow
+\🔄 Project Workflow
 
 
 
