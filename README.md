@@ -158,3 +158,22 @@ Career Skill Gap Analysis
 ### 4. Career Skill Gap Analysis
 
 ![Career Skill Gap Analysis](screenshots/04_career_skill_gap.png)
+---
+
+## 📊 Power BI Dashboard Preview
+
+### 1. Job Market Overview
+
+![Job Market Overview](screenshots/01_job_market_overview.png)
+
+### 2. Skills Intelligence
+
+![Skills Intelligence](screenshots/02_skills_intelligence.png)
+
+### 3. Salary Intelligence
+
+![Salary Intelligence](screenshots/03_salary_intelligence.png)
+
+### 4. Career Skill Gap Analysis
+
+![Career Skill Gap Analysis](screenshots/04_career_skill_gap.png)
