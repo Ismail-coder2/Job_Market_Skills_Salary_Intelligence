@@ -99,72 +99,35 @@ Salary information is available for a subset of the job postings.
 
 
 
-\🔄 Project Workflow
-
-
+## 🔄 Project Workflow
 
 ```text
-
 Raw Job Market Data
-
-&#x20;       ↓
-
+        ↓
 Data Cleaning & Preprocessing
-
-&#x20;       ↓
-
+        ↓
 Skill Extraction & Normalization
-
-&#x20;       ↓
-
+        ↓
 Exploratory Data Analysis
-
-&#x20;       ↓
-
+        ↓
 Salary & Experience Analysis
-
-&#x20;       ↓
-
+        ↓
 Role-Skill Analysis
-
-&#x20;       ↓
-
+        ↓
 Processed CSV Files
-
-&#x20;       ↓
-
+        ↓
 Power BI Dashboard
-
-&#x20;       ↓
-
+ ```text
+        ↓
 Career Skill Gap Analysis
-
+```
 ---
 
 ## 📊 Power BI Dashboard Preview
 
 ### 1. Job Market Overview
 
-![Job Market Overview](screenshots/01_job_market_overview.png)
-
-### 2. Skills Intelligence
-
-![Skills Intelligence](screenshots/02_skills_intelligence.png)
-
-### 3. Salary Intelligence
-
-![Salary Intelligence](screenshots/03_salary_intelligence.png)
-
-### 4. Career Skill Gap Analysis
-
-![Career Skill Gap Analysis](screenshots/04_career_skill_gap.png)
----
-
-## 📊 Power BI Dashboard Preview
-
-### 1. Job Market Overview
-
-![Job Market Overview](screenshots/01_job_market_overview.png)
+![Job Market Overview](./screenshots/01_job_market_overview.png)
 
 ### 2. Skills Intelligence
 
