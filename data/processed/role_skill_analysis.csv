@@ -1,0 +1,37 @@
+role_category,core_skill,job_count,total_jobs,skill_percentage
+Business Analyst,AWS,22,4505,0.49
+Business Analyst,Excel,147,4505,3.26
+Business Analyst,Power BI,137,4505,3.04
+Business Analyst,Python,120,4505,2.66
+Business Analyst,SQL,388,4505,8.61
+Business Analyst,Tableau,46,4505,1.02
+Data Analyst,AWS,25,4729,0.53
+Data Analyst,Excel,455,4729,9.62
+Data Analyst,Power BI,478,4729,10.11
+Data Analyst,Python,432,4729,9.14
+Data Analyst,SQL,604,4729,12.77
+Data Analyst,Tableau,149,4729,3.15
+Data Engineer,AWS,156,1922,8.12
+Data Engineer,Excel,9,1922,0.47
+Data Engineer,Power BI,62,1922,3.23
+Data Engineer,Python,338,1922,17.59
+Data Engineer,SQL,574,1922,29.86
+Data Engineer,Tableau,19,1922,0.99
+Data Scientist,AWS,482,6455,7.47
+Data Scientist,Excel,120,6455,1.86
+Data Scientist,Power BI,362,6455,5.61
+Data Scientist,Python,1822,6455,28.23
+Data Scientist,SQL,1671,6455,25.89
+Data Scientist,Tableau,118,6455,1.83
+Machine Learning Engineer,AWS,182,4004,4.55
+Machine Learning Engineer,Excel,20,4004,0.5
+Machine Learning Engineer,Power BI,62,4004,1.55
+Machine Learning Engineer,Python,970,4004,24.23
+Machine Learning Engineer,SQL,452,4004,11.29
+Machine Learning Engineer,Tableau,14,4004,0.35
+Python Developer,AWS,129,1586,8.13
+Python Developer,Excel,4,1586,0.25
+Python Developer,Power BI,5,1586,0.32
+Python Developer,Python,665,1586,41.93
+Python Developer,SQL,449,1586,28.31
+Python Developer,Tableau,3,1586,0.19
