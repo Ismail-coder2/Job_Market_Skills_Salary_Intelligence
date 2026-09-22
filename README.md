@@ -1,26 +1,18 @@
-\# Job Market Skills \& Salary Intelligence Platform
+# Job Market Skills & Salary Intelligence Platform
 
 
 
-\## 📊 Project Overview
+📊 Project Overview
 
-
-
-The \*\*Job Market Skills \& Salary Intelligence Platform\*\* is a Data Analytics project that analyzes the Indian technology job market to identify in-demand skills, salary patterns, job roles, experience levels, work modes, and career skill gaps.
-
+The Job Market Skills & Salary Intelligence Platform is a Data Analytics project that analyzes the Indian technology job market to identify in-demand skills, salary patterns, job roles, experience levels, work modes, and career skill gaps.
 
 
 The project uses Python for data cleaning and analysis and Power BI to build an interactive dashboard for exploring job-market trends.
 
 
 
-\---
 
-
-
-\## 🎯 Project Objectives
-
-
+🎯 Project Objectives
 
 \- Analyze the demand for different technical skills.
 
@@ -38,21 +30,11 @@ The project uses Python for data cleaning and analysis and Power BI to build an 
 
 
 
-\---
-
-
-
-\## 📁 Dataset
-
-
+ 📁 Dataset
 
 The project uses a dataset containing \*\*23,201 Indian technology job postings\*\*.
 
-
-
 The dataset includes information such as:
-
-
 
 \- Job title
 
@@ -73,17 +55,12 @@ The dataset includes information such as:
 \- Other job-related attributes
 
 
-
 Salary information is available for a subset of the job postings.
 
 
 
-\---
-
-
-
-\ 🛠️ Technologies Used
-Programming \& Data Analysis
+ 🛠️ Technologies Used
+ Programming & Data Analysis
 
 \- Python
 
@@ -97,13 +74,13 @@ Programming \& Data Analysis
 
 
 
-\# Database \& Querying
+*Database & Querying
 
 \- SQL
 
 
 
-\# Business Intelligence
+\*Business Intelligence
 
 \- Microsoft Power BI
 
@@ -111,7 +88,7 @@ Programming \& Data Analysis
 
 
 
-\# Development Tools
+\*Development Tools
 
 \- VS Code
 
@@ -119,9 +96,6 @@ Programming \& Data Analysis
 
 \- GitHub
 
-
-
-\---
 
 
 
@@ -135,11 +109,11 @@ Raw Job Market Data
 
 &#x20;       ↓
 
-Data Cleaning \& Preprocessing
+Data Cleaning & Preprocessing
 
 &#x20;       ↓
 
-Skill Extraction \& Normalization
+Skill Extraction & Normalization
 
 &#x20;       ↓
 
@@ -147,7 +121,7 @@ Exploratory Data Analysis
 
 &#x20;       ↓
 
-Salary \& Experience Analysis
+Salary & Experience Analysis
 
 &#x20;       ↓
 
@@ -165,3 +139,22 @@ Power BI Dashboard
 
 Career Skill Gap Analysis
 
+---
+
+## 📊 Power BI Dashboard Preview
+
+### 1. Job Market Overview
+
+![Job Market Overview](screenshots/01_job_market_overview.png)
+
+### 2. Skills Intelligence
+
+![Skills Intelligence](screenshots/02_skills_intelligence.png)
+
+### 3. Salary Intelligence
+
+![Salary Intelligence](screenshots/03_salary_intelligence.png)
+
+### 4. Career Skill Gap Analysis
+
+![Career Skill Gap Analysis](screenshots/04_career_skill_gap.png)
